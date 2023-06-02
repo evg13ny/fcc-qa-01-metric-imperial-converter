@@ -1,3 +1,12 @@
 # Metric-Imperial Converter
 
-This is the boilerplate for the Metric-Imperial Converter project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter
+written using Express and Node.
+
+Tested with Mocha and Chai.
+
+Converts in both directions:
+* km ⟷ mi,
+* gal ⟷ l,
+* lbs ⟷ kg.
+
+Convert your number [here](https://boilerplate-project-metricimpconverter.evg13ny.repl.co).
